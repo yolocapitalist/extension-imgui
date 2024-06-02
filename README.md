@@ -1,7 +1,6 @@
 # Fork of the Dear ImGUI extension for Defold
-Didn't want to mess with cimgui to try to automatically setup bindings (although that would be the best solution) so just
-decided to fork the [Defold Dear ImGUI Extension](https://github.com/britzl/extension-imgui).  The goal of this repo is to add
-support for [Implot](https://github.com/yolocapitalist/implot).
+Fork of [Defold Dear ImGUI Extension](https://github.com/britzl/extension-imgui).  The goal of this repo is to add
+support for [Implot](https://github.com/epezent/implot).
 
 # Current state of implot integration
 * ❌ - Currently in progress
